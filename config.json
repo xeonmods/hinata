@@ -1,0 +1,21 @@
+{
+    "ownerNumber": "6283861623360@s.whatsapp.net",
+    "ownerName": "FADLI-ID",
+    "botName": "Hinata-Md",
+    "footer": "Jancok",
+    "sessionName": "session",
+    "pathimg": "./media/hinata.jpg",
+    "lolkey": "Beli Sendiri",
+    "youtube": "https://youtube.com/c/zyrexxofc",
+    "instagram": "https://instagram.com/zyrexxofc",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Hinata-Md",
+        "author": "FADLI-ID"
+    }
+}
